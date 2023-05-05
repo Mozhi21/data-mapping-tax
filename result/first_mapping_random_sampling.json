@@ -1,0 +1,82 @@
+[
+    [
+        "taxCode=SA030300, specificTypeName=Advertising-market research and polling, information=nan",
+        "Billboard advertising 82101501 "
+    ],
+    [
+        "taxCode=PE090504, specificTypeName=Restaurant industry - kitchen racks and shelving, information=nan",
+        "Domestic kitchen tongs 52151611 "
+    ],
+    [
+        "taxCode=PC040408, specificTypeName=Clothing and related products (business-to-customer)-life preservers and vest, information=nan",
+        "Boys folkloric clothing 53102201 "
+    ],
+    [
+        "taxCode=PF051714, specificTypeName=Ice cream novelties packaged less than a pint (16 oz) and 1 count (includes cups of ice cream and popsicles w/ greater than 50% juice), information=nan",
+        "Fresh cut green ice calathea 10322702 "
+    ],
+    [
+        "taxCode=PP052501, specificTypeName=Pet - mobility enhancing equipment, for home use, without a prescription, information=nan",
+        "Drain or pipe cleaning equipment 47121808 "
+    ],
+    [
+        "taxCode=SC100402, specificTypeName=Computer software maintenance (prewritten software)-mandatory (load and leave)-load and leave updates, etc. & services, information=Maintenance contracts that are mandatory to the customer that include both \"software updates\" and \"technical support services,\" and that are associated with \"load and leave\" prewritten computer software.",
+        "Development software maintenance 81112209 "
+    ],
+    [
+        "taxCode=PF050903, specificTypeName=Food and food ingredients-snacks (non-candy, no eating utensils) ice cream =/> than a quart, information=nan",
+        "Butter or cream processing services 73131804 "
+    ],
+    [
+        "taxCode=PP030107, specificTypeName=Paper products-paper bags, information=nan",
+        "Cover paper 14111609 "
+    ],
+    [
+        "taxCode=SW053004, specificTypeName=Cloud services - saas - license agreement - for business use only, information=nan",
+        "Clerical services 80161504 "
+    ],
+    [
+        "taxCode=PC030414, specificTypeName=Clothing and related products (business-to-business)-uniform, athletic, information=nan",
+        "Boys folkloric clothing 53102201 "
+    ],
+    [
+        "taxCode=PA2010201, specificTypeName=By the drink - cereal malt beverage, information=Cereal malt beverages (cmb) served \"by the drink\" for immediate consumption.",
+        "Alcohol cocktails or drink mixes 50202207 "
+    ],
+    [
+        "taxCode=PC087426, specificTypeName=Cabling, information=nan",
+        "Cabling die 23251813 "
+    ],
+    [
+        "taxCode=SC090102, specificTypeName=Computer software maintenance (custom software)-optional (electronically downloaded)-downloaded updates, etc. & services, information=Maintenance contracts that are optional to the customer that include both \"software updates\" and \"technical support services,\" and that are associated with electronically downloaded custom computer software.",
+        "Development software maintenance 81112209 "
+    ],
+    [
+        "taxCode=PC030314, specificTypeName=Clothing and related products (business-to-business)-safety belts, information=nan",
+        "Boys folkloric clothing 53102201 "
+    ],
+    [
+        "taxCode=PI040594, specificTypeName=Baby oil, information=nan",
+        "Oil country casing 20122701 "
+    ],
+    [
+        "taxCode=SJ010300, specificTypeName=Janitorial-residential, information=nan",
+        "Cleaning or janitorial cart 47121501 "
+    ],
+    [
+        "taxCode=PF051571, specificTypeName=Sweetened granola bars (grains/nuts first ingred) does not contain flour / fruit snacks, fruit roll ups w added sweeteners, jello bites, pudding bites, yogos / individ sized portion / = 2.499 ounces or less / or labeled as single serving or size unknown, information=nan",
+        "Whole nuts or seeds 50101716 "
+    ],
+    [
+        "taxCode=DP010201, specificTypeName=Photographs - streaming / electronic download *see additional code description, information=Photographs that are transferred to the customer through electronic means only. for purposes of the chicago amusement tax only: privilege of watching electronically delivered television shows, movies or videos wherein no possessory interest or permanent title is granted. subscription or pay-per-view streaming. note: use of this code will apply the chicago amusement tax to all transactions made to chicago addresses.",
+        "Electronic directories 55111501 "
+    ],
+    [
+        "taxCode=PB308787, specificTypeName=Lead-acid vehicle battery (excludes core charge deposits), information=nan",
+        "Vehicle frame 25181608 "
+    ],
+    [
+        "taxCode=PF051698, specificTypeName=Ice cream novelties packaged equal to or greater than a pint (16 oz) and 1 count (includes cups of ice cream and popsicles w/ greater than 50% juice), information=nan",
+        "Fresh cut cream freesia 10313601 "
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "taxCode=PH403981, specificTypeName=Home care: hand rails and grab bars, information=nan",
+        "Jumping bars 49161702 "
+    ],
+    [
+        "taxCode=PH150132, specificTypeName=Corrective eyeglasses with a prescription sold by opticians, information=nan",
+        "Eyeglasses 42142901 "
+    ],
+    [
+        "taxCode=PB040101, specificTypeName=Bicycle - wheel diameter >14 inches - costing <$200, information=nan",
+        "Wheel bulldozers 22101523 "
+    ],
+    [
+        "taxCode=PH402826, specificTypeName=Blankets - sold to medical facility, information=Blankets are large pieces of cloth used to contain warmth.",
+        "Medical gas outlets 42191703 "
+    ],
+    [
+        "taxCode=PH403700, specificTypeName=Breast feeding:  breast milk bottles and breast milk storage bottles, information=nan",
+        "Breast localization needles 42294306 "
+    ],
+    [
+        "taxCode=PH402898, specificTypeName=Mask - cloth/face - sold at retail, information=Face masks are worn over the nose and mouth to protect people from spreading sickness.",
+        "Head or face protective helmet or device for the physically challenged 42211509 "
+    ],
+    [
+        "taxCode=PF050713, specificTypeName=Food and food ingredients-dietary supplements (supplement facts on label)-halibut liver oil, information=nan",
+        "Commercial use food grinders 48101605 "
+    ],
+    [
+        "taxCode=SC150205, specificTypeName=Construction services relating to real property (existing construction, commercial)-major renovation of existing building, information=nan",
+        "Subway construction service 72141604 "
+    ],
+    [
+        "taxCode=PH404970, specificTypeName=Belts/binders/straps - sold on prescription, information=Belts, binders, and straps function as supportive braces used on a patient's torso or abdomen. for example, abdominal belts place intra-abdominal pressure on the erector spinae and trunk muscles to stabilize the lumbar spine. similarly, binders are commonly used for patients who have undergone surgery in the abdomen area. binders provide support to surgical areas, improve blood circulation, minimize swelling after a surgical procedure, which, in turn, helps to accelerate the healing process.",
+        "Surgical specialty procedure packs 42295414 "
+    ],
+    [
+        "taxCode=PH403122, specificTypeName=Skin substitutes - synthetic or xenograft - sold to medical facility, information=Non-human tissue skin graft and skin substitutes. includes synthetic as well as porcine-based skin substitutes.",
+        "Medical gas outlets 42191703 "
+    ],
+    [
+        "taxCode=SC080202, specificTypeName=Computer software implementation - not associated with the sale of software-custom software-load and leave, information=Implementation-type services that are not associated with the sale of custom computer software.",
+        "Family software 43232004 "
+    ],
+    [
+        "taxCode=DC070000, specificTypeName=Cloud/remote storage, information=nan",
+        "Storage virtualization system 43212201 "
+    ],
+    [
+        "taxCode=PH403882, specificTypeName=Sensors and accessories - fld - sold to medical facility, information=Sensors and accessories classified as federal legend devices (fld) can only be dispensed on a prescription.",
+        "Overbed table accessories 42191818 "
+    ],
+    [
+        "taxCode=PF052210, specificTypeName=Beverage / water / nutrition label / artificially carbonated / sweetened / flavored, information=nan",
+        "Carbonated beverage dispenser 48101701 "
+    ],
+    [
+        "taxCode=PB0010510, specificTypeName=Product / consumer electronics / portable electronics / personal devices / white noise machine, information=nan",
+        "Portable darkroom 45141612 "
+    ],
+    [
+        "taxCode=PF050403, specificTypeName=Food combo pack #3 - food 90%-99%, hard goods 1%-10%, information=Food portion of the combination pack is assumed to either be eligible for food exemption (if any) or eligible for a reduced food rate (if any).",
+        "Commercial use food grinders 48101605 "
+    ],
+    [
+        "taxCode=PF190677, specificTypeName=Cigarette lighter fluid, information=nan",
+        "Fire resistant hydraulic fluid 15121528 "
+    ],
+    [
+        "taxCode=PF051874, specificTypeName=Beverage / nutrition label / non carbonated / milk is not the primary ingredient / contains soy, whey, or rice and a juice content of 0% - 24.99% / rtd, information=nan",
+        "Non carbonated beverage dispenser 48101702 "
+    ],
+    [
+        "taxCode=SR067003, specificTypeName=Repair of tpp performed under a maintenance contract (not residential service contracts), information=nan",
+        "Packaging equipment maintenance and repair service 73152104 "
+    ],
+    [
+        "taxCode=DG010201, specificTypeName=Games - streaming / electronic download *see additional code description, information=Games that are transferred to the customer through electronic means only. participating in games on-line or otherwise. for purposes of the chicago amusement tax only: this code applies to streaming or temporary download - no ownership - non-possessory interest only. note: use of this code will apply the chicago amusement tax to all transactions made to chicago addresses.",
+        "Electronic directories 55111501 "
+    ]
+]

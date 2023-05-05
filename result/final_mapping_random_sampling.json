@@ -1,0 +1,82 @@
+[
+    [
+        "taxCode=PC100001, specificTypeName=Numismatic - coins - u.s. currency, information=Rare or antique coins, once used as legal tender in the united states, whose sales price is based on rarity, demand, condition and mintage.  also includes uncirculated coins and proofs.",
+        "Overhead coins 60102907 "
+    ],
+    [
+        "taxCode=SM016781, specificTypeName=Facsimile service\u00a0- charges for sending and receiving faxes, information=nan",
+        "Receiving or inventorying services 80161602 "
+    ],
+    [
+        "taxCode=PF110302, specificTypeName=Prepared foods: deli - tables and chairs available for eating-cold prepared food, information=nan",
+        "Fresh prepared salads 50193201 "
+    ],
+    [
+        "taxCode=PF110804, specificTypeName=Prepared foods: restaurant - tables and chairs not available for eating-hot (or heated state) prepared food, information=nan",
+        "Fresh prepared salads 50193201 "
+    ],
+    [
+        "taxCode=PI040601, specificTypeName=Diaper rash ointments without zinc, information=nan",
+        "Zinc 11101719 "
+    ],
+    [
+        "taxCode=PA020231, specificTypeName=Agricultural livestock-commercial use - litter, information=nan",
+        "Commercial use broilers 48101503 "
+    ],
+    [
+        "taxCode=PA3000204, specificTypeName=Traffic marking paint, information=nan",
+        "Paint application system 23153501 "
+    ],
+    [
+        "taxCode=PF050237, specificTypeName=Food / trail mix / contains flour / contains a confection item (candy / caramel popcorn / confection nuts or fruits) / individual sized portion, information=nan",
+        "Nuts or dried fruits 50192110 "
+    ],
+    [
+        "taxCode=PI041106, specificTypeName=Cloth nursing pads (washable), information=nan",
+        "Burlap cloth 11162116 "
+    ],
+    [
+        "taxCode=PH405386, specificTypeName=Paper - ekg - sold to medical facility, information=Ekg paper is specifically designed for use in ekg machines. it is divided up into 1 mm2 blocks similar to graph paper.",
+        "Cover paper 14111609 "
+    ],
+    [
+        "taxCode=SE030004, specificTypeName=Event labor - booth hosts/hostesses, presenters, audience gatherers - labor only, information=nan",
+        "Labor fee 76122405 "
+    ],
+    [
+        "taxCode=PH403946, specificTypeName=Scooters, information=Mobility scooters are power-operated scooters for use by people with mobility issues. scooters can be battery-powered or gasoline-powered.",
+        "Scooters 25101802 "
+    ],
+    [
+        "taxCode=SF096370, specificTypeName=Catering services, information=nan",
+        "Catering services 90101603 "
+    ],
+    [
+        "taxCode=PC040140, specificTypeName=Clothing and related products (business-to-customer)-rainwear, information=nan",
+        "Boys folkloric clothing 53102201 "
+    ],
+    [
+        "taxCode=PC040407, specificTypeName=Clothing and related products (business-to-customer)-jogging outfits, sweat suits, information=nan",
+        "Boys suits 53101901 "
+    ],
+    [
+        "taxCode=PM062306, specificTypeName=Maps, information=nan",
+        "Historical maps 60103804 "
+    ],
+    [
+        "taxCode=OC030000, specificTypeName=Coupons (third party), information=nan",
+        "Third party warranty service 81111818 "
+    ],
+    [
+        "taxCode=PH404298, specificTypeName=Medical supplies - general: film - sold to medical facility, information=A coated strip of cellulose that is used for taking pictures.",
+        "Medical gas outlets 42191703 "
+    ],
+    [
+        "taxCode=SW050500, specificTypeName=Website-information access, information=nan",
+        "Access servers 43222625 "
+    ],
+    [
+        "taxCode=PA2020200, specificTypeName=Packaged alcohol - beer, information=_x000D_\nincludes beer products that are factory sealed",
+        "Beer 50202201 "
+    ]
+]
